@@ -11,7 +11,7 @@ executable binaries (arm64-Linux/macOS, x64-Linux/macOS/Windows, x86-Windows)
     All the other files are support packages.
 1) On Linux/macOS, just run following 2 commands in terminal window:
        "chmod +x misc/xs_install_symlnk_sw.sh"
-       "misc/xs_install_symlnk_sw.sh
+       "misc/xs_install_symlnk_sw.sh"
 2) On Windows, there is no installation application. Just run following command
      in console window, or just double-click this bat file to launch a new 
      console window.
@@ -33,13 +33,15 @@ executable binaries (arm64-Linux/macOS, x64-Linux/macOS/Windows, x86-Windows)
      ini will be copied into arm/linux/mac/osx/x64/x86 sub-directories.
    There are 2 mainly tools used for multiple files encryption/decryption:
        "sxrsa","dxrsa"
-   There are 4 tools used for rsa-sakura lock:
+   There are 3(+1) tools used for rsa-sakura lock: 
        "sige","sigd","sigx"(,"sigrm")
-   There are 2 tools used for rsa-keeper:
+   There are 2 tools used for rsa-keeper: 
        "config-keeper","rsa-keeper"
-   Other plugin tools: "ezip","eunzip","kzip","kunzip"(,"ctgz","xtgx")
-       "erar","eunrar","krar","kunrar",
+   There are 2(+3) tools(/plugin) for bakcup validation: 
        "ssmx","dsmx"(,"dcp","clearnoise","lsdx")
+   Other plugin tools for packing: 
+       "ezip","eunzip","kzip","kunzip"(,"ctgz","xtgx"),
+       "erar","eunrar","krar","kunrar"
 
 Get more details from release, please. ("xrsa_shareware_[Sakura.G_831.250430.1201_x64_arm64].zip"
 is renamed with "xrsa_shareware_v831.250430.1201_x64_arm64.zip", because github cannot use '[]'.)
