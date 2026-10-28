@@ -47,5 +47,6 @@ Get more details from release, please. ("xrsa_shareware_[Sakura.G_831.250430.120
 is renamed with "xrsa_shareware_v831.250430.1201_x64_arm64.zip", because github cannot use '[]'.)
 
 Other download: 
-(1) baidu: https://pan.baidu.com/s/10MI0ZHCQ1FAb4rwNEGjIgg?pwd=1248    (access code:1248)
-(2) China Mobile: https://yun.139.com/shareweb/#/w/i/2oxwEW96wvXii     (access code:19bb)
+(1) RSA-Sakura Driver: https://github.com/derekfugh/RSA-Sakura-Driver
+(2) baidu: https://pan.baidu.com/s/10MI0ZHCQ1FAb4rwNEGjIgg?pwd=1248    (access code:1248)
+(3) China Mobile: https://yun.139.com/shareweb/#/w/i/2oxwEW96wvXii     (access code:19bb)
