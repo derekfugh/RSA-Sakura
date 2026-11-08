@@ -3,7 +3,7 @@
     build number : 26.831.250430.1201 (240314.319_303_209_201)
           Author : Derek Fu
 [copyright]
-    Copyright (C) 2023-2025 Derek Fu
+    Copyright (C) 2023-2026 Derek Fu
 [Installation/Setup]
     "xrsa_shareware_[Sakura.G_831.250430.1201_x64_arm64].zip" is RSA-Sakura 
 executable binaries (arm64-Linux/macOS, x64-Linux/macOS/Windows, x86-Windows)
