@@ -1,6 +1,6 @@
 [version]
     RSA-Sakura 231029 (the edition for the 5th anniversary of IZ*ONE debut)
-    build number : 831.250430.1201 (240314.319_303_209_201)
+    build number : 26.831.250430.1201 (240314.319_303_209_201)
           Author : Derek Fu
 [copyright]
     Copyright (C) 2023-2025 Derek Fu
